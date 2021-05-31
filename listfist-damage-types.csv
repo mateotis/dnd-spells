@@ -1,0 +1,171 @@
+0;Acid Splash;Dexterity;1d6;Acid;✓;✗
+0;Booming Blade;✗;1d8;Thunder;✓;✗
+0;Chill Touch;✗;1d8;Necrotic;✓;✗
+0;Create Bonfire;Dexterity;1d8;Fire;✓;✗
+0;Eldritch Blast;✗;1d10;Force;✓;✗
+0;Fire Bolt;✗;1d10;Fire;✓;✗
+0;Frostbite;Constitution;1d6;Cold;✓;✗
+0;Green-Flame Blade;✗;1d8;Fire;✓;✗
+0;Infestation;Constitution;1d6;Poison;✓;✗
+0;Lightning Lure;Strength;1d8;Lightning;✓;✗
+0;Magic Stone;✗;1d6+SAM;Bludgeoning;✓;✗
+0;Mind Sliver;Intelligence;1d6;Psychic;✓;✗
+0;Poison Spray;Constitution;1d12;Poison;✓;✗
+0;Primal Savagery;✗;1d10;Acid;✓;✗
+0;Produce Flame;✗;1d8;Fire;✓;✗
+0;Ray of Frost;✗;1d8;Cold;✓;✗
+0;Sacred Flame;Dexterity;1d8;Radiant;✓;✗
+0;Sapping Sting;Constitution;1d4;Necrotic;✓;✗
+0;Shillelagh;✗;1d8+SAM;Bludgeoning;✗;✗
+0;Shocking Grasp;✗;1d8;Lightning;✓;✗
+0;Sword Burst;Dexterity;1d6;Force;✓;✗
+0;Thorn Whip;✗;1d6;Piercing;✓;✗
+0;Thunderclap;Constitution;1d6;Thunder;✓;✗
+0;Toll the Dead;Wisdom;1d8 / 1d12;Necrotic;✓;✗
+0;Vicious Mockery;Wisdom;1d4;Psychic;✓;✗
+0;Word of Radiance;Constitution;1d6;Radiant;✓;✗
+1;Absorb Elements;✗;1d6;Variable;✗;Dice
+1;Armor of Agathys;✗;5;Cold;✗;Amount/Amount
+1;Arms of Hadar;Strength;2d6;Necrotic;✗;Dice
+1;Burning Hands;Dexterity;3d6;Fire;✗;Dice
+1;Catapult;Dexterity;3d8;Bludgeoning;✗;Other
+1;Chaos Bolt;✗;2d8+1d6;Variable;✗;Dice
+1;Chromatic Orb;✗;3d8;Variable;✗;Dice
+1;Dissonant Whispers;Wisdom;3d6;Psychic;✗;Dice
+1;Divine Favor;Charisma;1d4;Radiant;✗;✗
+1;Earth Tremor;Dexterity;1d6;Bludgeoning;✗;Dice
+1;Ensnaring Strike;Strength;1d6;Piercing;✗;Dice
+1;Frost Fingers;Constitution;2d8;Cold;✗;Dice
+1;Guiding Bolt;✗;4d6;Radiant;✗;Dice
+1;Hail of Thorns;Dexterity;1d10;Piercing;✗;Dice
+1;Hellish Rebuke;Dexterity;3d10;Fire;✗;Dice
+1;Hex;✗;1d6;Necrotic;✗;Duration
+1;Hunter's Mark;✗;1d6;Variable;✗;Duration
+1;Ice Knife;Dexterity;1d10 / 2d6;Cold, Piercing;✗;Dice
+1;Inflict Wounds;✗;3d10;Necrotic;✗;Dice
+1;Jim's Magic Missile;✗;2d4;Force;✗;Number
+1;Magic Missile;✗;1d4+1 (x3);Force;✗;Number
+1;Magnify Gravity;Constitution;2d8;Force;✗;✗
+1;Ray of Sickness;Constitution;2d8;Poison;✗;Dice
+1;Searing Smite;Constitution;1d6 / 1d6;Fire;✗;Dice
+1;Tasha's Caustic Brew;Dexterity;2d4;Acid;✗;Dice
+1;Thunderous Smite;Strength;2d6;Thunder;✗;✗
+1;Thunderwave;Constitution;2d8;Thunder;✗;Dice
+1;Witch Bolt;✗;1d12;Lightning;✗;Dice
+1;Wrathful Smite;Wisdom;1d6;Psychic;✗;✗
+1;Zephyr Strike;✗;1d8;Force;✗;✗
+2;Aganazzar's Scorcher;Dexterity;3d8;Fire;✗;Dice
+2;Branding Smite;✗;2d6;Radiant;✗;Dice
+2;Cloud of Daggers;✗;4d4;Slashing;✗;Dice
+2;Cordon of Arrows;Dexterity;1d6;Piercing;✗;Number
+2;Dragon's Breath;Dexterity;3d6;Variable;✗;Dice
+2;Dust Devil;Strength;1d8;Bludgeoning;✗;Dice
+2;Flame Blade;✗;3d6;Fire;✗;Dice
+2;Flaming Sphere;Dexterity;2d6;Fire;✗;Dice
+2;Heat Metal;✗;2d8;Fire;✗;Dice
+2;Maximilian's Earthen Grasp;Strength;2d6 / 2d6;Bludgeoning;✗;✗
+2;Melf's Acid Arrow;✗;4d4 / 2d4;Acid;✗;Dice
+2;Mind Spike;Wisdom;3d8;Psychic;✗;Dice
+2;Moonbeam;Constitution;2d10;Radiant;✗;Dice
+2;Phantasmal Force;Intelligence;1d6;Psychic;✗;✗
+2;Scorching Ray;✗;2d6 (x3);Fire;✗;Number
+2;Shadow Blade;✗;2d8;Psychic;✗;Dice
+2;Shatter;Constitution;3d8;Thunder;✗;Dice
+2;Snilloc's Snowball Swarm;Dexterity;3d6;Cold;✗;Dice
+2;Spiritual Weapon;✗;1d8+SAM;Force;✗;Dice
+2;Tasha's Mind Whip;Intelligence;3d6;Psychic;✗;Targets
+3;Blinding Smite;Constitution;3d8;Radiant;✗;✗
+3;Call Lightning;Dexterity;3d10;Lightning;✗;Dice
+3;Crusader's Mantle;✗;1d4;Radiant;✗;✗
+3;Elemental Weapon;✗;1d4;Variable;✗;Amount/Dice
+3;Erupting Earth;Dexterity;3d12;Bludgeoning;✗;Dice
+3;Fireball;Dexterity;8d6;Fire;✗;Dice
+3;Flame Arrows;✗;1d6;Fire;✗;Number
+3;Glyph of Warding;Dexterity;5d8;Variable;✗;Spell Level/Dice
+3;Hunger of Hadar;Dexterity;2d6 / 2d6;Acid, Cold;✗;✗
+3;Life Transference;✗;4d8;Necrotic;✗;Dice
+3;Lightning Arrow;Dexterity;4d8 / 2d8;Lightning;✗;Dice
+3;Lightning Bolt;Dexterity;8d6;Lightning;✗;Dice
+3;Melf's Minute Meteors;Dexterity;2d6;Fire;✗;Number
+3;Pulse Wave;Constitution;6d6;Force;✗;✗
+3;Spirit Guardians;Wisdom;3d8;Variable;✗;Dice
+3;Spirit Shroud;✗;1d8;Variable;✗;Dice
+3;Thunder Step;Constitution;3d10;Thunder;✗;Dice
+3;Tidal Wave;Dexterity;4d8;Bludgeoning;✗;✗
+3;Vampiric Touch;✗;3d6;Necrotic;✗;Dice
+3;Wind Wall;Strength;3d8;Bludgeoning;✗;✗
+4;Blight;Constitution;8d8;Necrotic;✗;Dice
+4;Control Water;Strength;2d8;Bludgeoning;✗;✗
+4;Elemental Bane;Constitution;2d6;Variable;✗;Targets
+4;Evard's Black Tentacles;Dexterity;3d6;Bludgeoning;✗;✗
+4;Fire Shield;✗;2d8;Variable;✗;✗
+4;Gravity Sinkhole;Constitution;5d10;Force;✗;✗
+4;Guardian of Faith;Dexterity;20;Radiant;✗;✗
+4;Ice Storm;Dexterity;2d8+4d6;Bludgeoning, Cold;✗;Dice
+4;Mordenkainen's Faithful Hound;✗;4d8;Piercing;✗;✗
+4;Phantasmal Killer;Wisdom;4d10;Psychic;✗;Dice
+4;Shadow of Moil;✗;2d8;Necrotic;✗;✗
+4;Sickening Radiance;Constitution;4d10;Radiant;✗;✗
+4;Staggering Smite;Wisdom;4d6;Psychic;✗;✗
+4;Storm Sphere;Strength;2d6 / 4d6;Bludgeoning, Lightning;✗;✗
+4;Vitriolic Sphere;Dexterity;10d4 / 5d4;Acid;✗;Dice
+4;Wall of Fire;Dexterity;5d8;Fire;✗;Dice
+5;Banishing Smite;✗;5d10;Force;✗;✗
+5;Bigby's Hand;✗;4d8 / 2d6+SAM;Bludgeoning, Force;✗;Dice
+5;Cloudkill;Constitution;5d8;Poison;✗;Dice
+5;Cone of Cold;Constitution;8d8;Cold;✗;Dice
+5;Dawn;Constitution;4d10;Radiant;✗;✗
+5;Destructive Wave;Constitution;5d6+5d6;Thunder, Variable;✗;✗
+5;Enervation;Dexterity;4d8;Necrotic;✗;Dice
+5;Flame Strike;Dexterity;4d6+4d6;Fire, Radiant;✗;Dice
+5;Holy Weapon;Constitution;2d8 / 4d8;Radiant;✗;✗
+5;Immolation;Dexterity;8d6 / 4d6;Fire;✗;✗
+5;Insect Plague;Constitution;4d10;Piercing;✗;Dice
+5;Maelstrom;Strength;6d6;Bludgeoning;✗;✗
+5;Negative Energy Flood;Constitution;5d12;Necrotic;✗;✗
+5;Steel Wind Strike;✗;6d10;Force;✗;✗
+5;Synaptic Static;Intelligence;8d6;Psychic;✗;✗
+5;Transmute Rock;Dexterity;4d8;Bludgeoning;✗;✗
+5;Wall of Light;Constitution;4d8 / 4d8;Radiant;✗;Dice
+5;Wrath of Nature;Dexterity;4d6 / 3d8;Bludgeoning, Slashing;✗;✗
+6;Blade Barrier;Dexterity;6d10;Slashing;✗;✗
+6;Bones of the Earth;Dexterity;6d6;Bludgeoning;✗;Number
+6;Chain Lightning;Dexterity;10d8;Lightning;✗;Number
+6;Circle of Death;Constitution;8d6;Necrotic;✗;Dice
+6;Disintegrate;Dexterity;10d6+40;Force;✗;Dice
+6;Forbiddance;✗;5d10;Variable;✗;✗
+6;Gravity Fissure;Constitution;8d8;Force;✗;✗
+6;Harm;Constitution;14d6;Necrotic;✗;✗
+6;Investiture of Flame;Dexterity;1d10 / 4d8;Fire;✗;✗
+6;Investiture of Ice;Constitution;4d6;Cold;✗;✗
+6;Investiture of Wind;Constitution;2d10;Bludgeoning;✗;✗
+6;Mental Prison;Intelligence;5d10;Psychic;✗;✗
+6;Otiluke's Freezing Sphere;Constitution;10d6;Cold;✗;Dice
+6;Sunbeam;Constitution;6d8;Radiant;✗;✗
+6;Wall of Ice;Dexterity;10d6 / 5d6;Cold;✗;Dice
+6;Wall of Thorns;Dexterity;7d8;Piercing, Slashing;✗;Dice
+7;Crown of Stars;✗;4d12;Radiant;✗;Number
+7;Delayed Blast Fireball;Dexterity;12d6;Fire;✗;Dice
+7;Finger of Death;Constitution;7d8+30;Necrotic;✗;✗
+7;Fire Storm;Dexterity;7d10;Fire;✗;✗
+7;Mordenkainen's Sword;✗;3d10;Force;✗;✗
+7;Prismatic Spray;Dexterity;10d6;Variable;✗;✗
+7;Symbol;✗;10d10;Necrotic;✗;✗
+7;Whirlwind;Dexterity;10d6;Bludgeoning;✗;✗
+8;Abi-Dalzim's Horrid Wilting;Constitution;12d8;Necrotic;✗;✗
+8;Dark Star;Constitution;8d10;Force;✗;✗
+8;Earthquake;Dexterity;5d6;Bludgeoning;✗;✗
+8;Feeblemind;Intelligence;4d6;Psychic;✗;✗
+8;Illusory Dragon;Wisdom;7d6;Variable;✗;✗
+8;Incendiary Cloud;Dexterity;10d8;Fire;✗;✗
+8;Maddening Darkness;Wisdom;8d8;Psychic;✗;✗
+8;Sunburst;Constitution;12d6;Radiant;✗;✗
+8;Tsunami;Strength;6d10 / 5d10 / 4d10 / 3d10 / 2d10 / 1d10;Bludgeoning;✗;✗
+9;Blade of Disaster;✗;4d12;Force;✗;✗
+9;Meteor Swarm;Dexterity;20d6+20d6;Bludgeoning, Fire;✗;✗
+9;Prismatic Wall;Constitution;10d6 / 10d6 / 10d6 / 10d6 / 10d6;Acid, Cold, Fire, Lightning, Poison;✗;✗
+9;Psychic Scream;Intelligence;14d6;Psychic;✗;✗
+9;Ravenous Void;Strength;5d10;Force;✗;✗
+9;Storm of Vengeance;Constitution;2d6 / 1d6 / 10d6 / 2d6 / 1d6;Acid, Bludgeoning, Cold, Lightning, Thunder;✗;Dice
+9;Time Ravage;Constitution;10d12;Necrotic;✗;✗
+9;Weird;Wisdom;4d10;Psychic;✗;✗
